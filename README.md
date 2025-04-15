@@ -2,7 +2,7 @@
 
 A real-time AI-powered sentiment analysis tool that streams tweets, analyzes emotions, stores results, and visualizes trends.
 
-![Dashboard Screenshot](https://via.placeholder.com/800x450.png?text=Twitter+Sentiment+Analysis+Dashboard)
+
 
 ## Features
 
