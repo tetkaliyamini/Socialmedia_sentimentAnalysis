@@ -42,7 +42,7 @@ A real-time AI-powered sentiment analysis tool that streams tweets, analyzes emo
 
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/twitter-sentiment-analysis.git
+   git clone 
    cd twitter-sentiment-analysis
    \`\`\`
 
